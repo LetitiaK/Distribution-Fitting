@@ -1,7 +1,7 @@
 # Distribution Fitting
 
 This R code uses the R *poweRlaw* package to determine (estimate) which distribution fits best to a given data-set of a graph.
-The R *poweRlaw* package is an implementation of maximum likelihood estimators as described in that supports power-law, log-normal, Poisson, and exponential distributions.
+The R *poweRlaw* package is an implementation of maximum likelihood estimators that supports power-law, log-normal, Poisson, and exponential distributions.
 
 ## Steps
 
