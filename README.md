@@ -1,1 +1,1 @@
-# Distribution-Fitting
+# Distribution Fitting
